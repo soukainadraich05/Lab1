@@ -1,0 +1,34 @@
+
+# Lab 1: Phishing URL Detection
+
+## Overview
+This lab focuses on phishing URL detection using Machine Learning and the PhiUSIIL Phishing URL Dataset.
+
+## Contents
+- `M115_Lab1_Rapport.ipynb`: Lab report with answers and explanations.
+- `notebook180e60961b.ipynb`: Notebook containing the code, outputs and analysis.
+
+## Dataset
+[PhiUSIIL Phishing URL Dataset](https://www.kaggle.com/datasets/kaggleprollc/phishing-url-websites-dataset-phiusiil)
+
+## Kaggle Contribution
+https://www.kaggle.com/code/soukainadraich/notebook180e60961b
+
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Machine Learning
+
+## Objectives
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Feature analysis
+- Machine Learning model training
+- Model evaluation
+
+## Author
+Soukaina Draich
